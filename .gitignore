@@ -1,0 +1,6 @@
+# build output (publish the exe via GitHub Releases)
+*.exe
+*.pdb
+
+# local settings from older builds
+crosshair.ini
